@@ -1,0 +1,4 @@
+string input=("Digite uma string: " )
+numero int= ("Digite um numero:" )
+
+print= (string* numero)
